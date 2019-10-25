@@ -8,5 +8,10 @@
     "id": 2,
     "artistName": "Regular Expressionists",
     "albumName": "Top, Right, Bottom, Left"
+  },
+  {
+    "id": 3,
+    "artistName": "Bruce Wayne",
+    "albumName": "The Dark Knight Rises"
   }
 ]
